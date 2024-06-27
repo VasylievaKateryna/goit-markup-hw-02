@@ -94,12 +94,16 @@ color: #2e2f42;
 .main-team {
   background-color: #f4f4fd; ;
 }
+.main-team-list {
+  background-color: #FFF;
+}
 .main-team-tytle {
 font-weight: 700;
 font-size: 36px;
 line-height: 1.11;
 letter-spacing: 0.02em;
 text-align: center;
+text-transform: capitalize;
 color: #2e2f42;
 }
 .team-list-tytle {
